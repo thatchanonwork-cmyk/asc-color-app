@@ -35,7 +35,7 @@ npm start
 
 เปิดเบราว์เซอร์ไปที่:
 - หน้าพนักงาน: http://localhost:3000
-- หน้า admin: http://localhost:3000/admin.html (รหัสผ่านเริ่มต้น: `asc2026`)
+- หน้า admin: http://localhost:3000/admin.html (รหัสผ่านเริ่มต้น: `hrbpasc2026`)
 
 **แนะนำให้เปลี่ยนรหัสผ่าน admin ก่อนใช้งานจริง** โดยตั้งค่าตัวแปรแวดล้อม `ADMIN_PASSWORD` (ดูวิธีด้านล่าง)
 
